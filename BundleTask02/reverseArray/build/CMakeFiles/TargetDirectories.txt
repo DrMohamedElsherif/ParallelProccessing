@@ -1,0 +1,3 @@
+/home/elsherifm/Downloads/exercise02/reverseArray/build/CMakeFiles/reverseArray.dir
+/home/elsherifm/Downloads/exercise02/reverseArray/build/CMakeFiles/edit_cache.dir
+/home/elsherifm/Downloads/exercise02/reverseArray/build/CMakeFiles/rebuild_cache.dir
