@@ -1,0 +1,3 @@
+/home/elsherifm/Downloads/exercise01/myFirstKernel/build/CMakeFiles/myFirstKernel.dir
+/home/elsherifm/Downloads/exercise01/myFirstKernel/build/CMakeFiles/edit_cache.dir
+/home/elsherifm/Downloads/exercise01/myFirstKernel/build/CMakeFiles/rebuild_cache.dir
