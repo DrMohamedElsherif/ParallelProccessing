@@ -1,0 +1,3 @@
+/home/elsherifm/Downloads/exercise01/deviceQuery/build/CMakeFiles/deviceQuery.dir
+/home/elsherifm/Downloads/exercise01/deviceQuery/build/CMakeFiles/edit_cache.dir
+/home/elsherifm/Downloads/exercise01/deviceQuery/build/CMakeFiles/rebuild_cache.dir
