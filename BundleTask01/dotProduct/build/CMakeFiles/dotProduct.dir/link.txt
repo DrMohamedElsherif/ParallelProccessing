@@ -1,0 +1,1 @@
+/usr/bin/g++ @CMakeFiles/dotProduct.dir/objects1.rsp -o dotProduct @CMakeFiles/dotProduct.dir/linkLibs.rsp -L"/graphics/opt/opt_Ubuntu24.04/cuda/toolkit_12.4.1/cuda/targets/x86_64-linux/lib/stubs" -L"/graphics/opt/opt_Ubuntu24.04/cuda/toolkit_12.4.1/cuda/targets/x86_64-linux/lib"

@@ -1,0 +1,3 @@
+/home/elsherifm/Downloads/exercise01/dotProduct/build/CMakeFiles/dotProduct.dir
+/home/elsherifm/Downloads/exercise01/dotProduct/build/CMakeFiles/edit_cache.dir
+/home/elsherifm/Downloads/exercise01/dotProduct/build/CMakeFiles/rebuild_cache.dir
