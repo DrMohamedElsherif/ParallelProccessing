@@ -1,0 +1,3 @@
+/home/elsherifm/Downloads/exercise05/MatrixMul/build/CMakeFiles/MatrixMul.dir
+/home/elsherifm/Downloads/exercise05/MatrixMul/build/CMakeFiles/edit_cache.dir
+/home/elsherifm/Downloads/exercise05/MatrixMul/build/CMakeFiles/rebuild_cache.dir
