@@ -1,3 +1,0 @@
-/home/elsherifm/Downloads/exercise03/reduction/build/CMakeFiles/testDotProductReduction.dir
-/home/elsherifm/Downloads/exercise03/reduction/build/CMakeFiles/edit_cache.dir
-/home/elsherifm/Downloads/exercise03/reduction/build/CMakeFiles/rebuild_cache.dir
