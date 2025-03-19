@@ -1,0 +1,3 @@
+/home/elsherifm/Downloads/exercise06/NBody/build/CMakeFiles/NBody.dir
+/home/elsherifm/Downloads/exercise06/NBody/build/CMakeFiles/edit_cache.dir
+/home/elsherifm/Downloads/exercise06/NBody/build/CMakeFiles/rebuild_cache.dir
